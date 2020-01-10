@@ -1,0 +1,6 @@
+C:\Users\VRHC\source\repos\Desafio04\Desafio04\bin\Debug\Desafio04.exe.config
+C:\Users\VRHC\source\repos\Desafio04\Desafio04\bin\Debug\Desafio04.exe
+C:\Users\VRHC\source\repos\Desafio04\Desafio04\bin\Debug\Desafio04.pdb
+C:\Users\VRHC\source\repos\Desafio04\Desafio04\obj\Debug\Desafio04.csprojAssemblyReference.cache
+C:\Users\VRHC\source\repos\Desafio04\Desafio04\obj\Debug\Desafio04.exe
+C:\Users\VRHC\source\repos\Desafio04\Desafio04\obj\Debug\Desafio04.pdb
