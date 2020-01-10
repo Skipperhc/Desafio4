@@ -29,8 +29,6 @@ namespace Desafio04 {
             loja.ListarLivros(loja);
             loja.ListarVideoGames(loja);
             Console.WriteLine($"\n\npatrimônio: {loja.CalcularPatrimonio(loja)}");
-
-            Console.Write($"patrimônio: {loja.CalcularPatrimonio(loja)}");
         }
     }
 }
